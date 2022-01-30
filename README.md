@@ -1,7 +1,7 @@
 ## Projeto backend python watt.io passo a passo de como executar
 
 # requerimentos de pacotes para executar
-python>=3.9.7
+python>=3.9.7 </br>
 git
 
 # clonando repositório e instalando modulos
