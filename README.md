@@ -1,9 +1,14 @@
 ## Projeto backend python watt.io passo a passo de como executar
 
-# instalar modulos
+# requerimentos de pacotes para executar
+python>=3.9.7
+git
+
+# clonando repositório e instalando modulos
 ```bash
 mkdir filme
 cd filme
+git clone https://github.com/xjoaquimx/xjoaquimx.git
 pip install -r requeriments.txt
 ```
 
